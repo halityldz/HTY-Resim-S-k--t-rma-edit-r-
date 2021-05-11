@@ -1,0 +1,10 @@
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\bin\Debug\HTYresimeditörü.exe.config
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\bin\Debug\HTYresimeditörü.exe
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\bin\Debug\HTYresimeditörü.pdb
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\obj\Debug\HTYresimeditörü.csprojAssemblyReference.cache
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\obj\Debug\HTYresimeditörü.Form1.resources
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\obj\Debug\HTYresimeditörü.Properties.Resources.resources
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\obj\Debug\HTYresimeditörü.csproj.GenerateResource.cache
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\obj\Debug\HTYresimeditörü.csproj.CoreCompileInputs.cache
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\obj\Debug\HTYresimeditörü.exe
+C:\Users\HALİT\Source\Repos\HTYresimeditörü\HTYresimeditörü\obj\Debug\HTYresimeditörü.pdb
